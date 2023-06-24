@@ -14,7 +14,7 @@ A proof-of-concept website which reads page-content from a JSON file. Currently 
 
 ## Acknowledgements
 
-See [README.md](./src/README.md) for a more detailed list.
+See [README.md](/README.md) for a more detailed list.
 
  - Images: [Unsplash.com](unsplash.com)
  - Icons: [svgrepo.com](svgrepo.com)
